@@ -1,0 +1,7 @@
+numpy==2.2.3
+boto3==1.42.70
+pandas==2.2.3
+scikit-learn==1.6.1
+sagemaker==2.232.2
+ipykernel==6.29.5
+cloudpickle==2.2.1
